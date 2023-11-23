@@ -1,0 +1,3 @@
+1. Test sidekiq worker
+2. Chay sidekiq len truoc khi rails s
+3. Khi vao method show thi worker se tu dong chay ==> kiem tra ben sidekiq console
