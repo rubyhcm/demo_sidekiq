@@ -1,1 +1,1 @@
-# This repo is using to demo sidekiq
+# This repo is used to demo sidekiq
